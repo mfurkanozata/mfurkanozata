@@ -25,8 +25,8 @@ In my free time, I develop personal projects using TypeScript, JavaScript, Node.
 <!-- You can list your repositories here or use a GitHub Action to dynamically update them -->
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mfuraknozata&show_icons=true&theme=transparent)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mfuraknozata&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Furkan's GitHub stats](https://github-readme-stats.vercel.app/api?username=mfurkanozata&show_icons=true&theme=transparent) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurkanozata&layout=donut)](https://github.com/mfurkanozata/github-readme-stats)
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfuraknozata)
