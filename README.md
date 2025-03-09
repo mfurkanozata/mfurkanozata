@@ -29,5 +29,5 @@ In my free time, I develop personal projects using TypeScript, JavaScript, Node.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mfurkanozata&layout=donut)](https://github.com/mfurkanozata/github-readme-stats)
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfuraknozata)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mfuraknozata)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mfurkanozata)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mfurkanozata)
