@@ -18,7 +18,7 @@ In my free time, I develop personal projects using TypeScript, JavaScript, Node.
 
 ### 📱 Featured Personal Projects
 - **SahiDost**: A mobile application using AI-powered search for efficiently searching through PDF documents
-- **Noteify**: A modern note-reminder app built with React Native & Expo with cloud storage using Supabase. [![LinkedIn](https://img.shields.io/itunes/v/:com.noteify.app)](https://apps.apple.com/tr/app/noteify-remember-what-matters/id6742713240?l=tr)
+- **Noteify**: A modern note-reminder app built with React Native & Expo with cloud storage using Supabase. [![LinkedIn](https://badgen.net/badge/icon/Noteify?icon=apple&label)](https://apps.apple.com/tr/app/noteify-remember-what-matters/id6742713240?l=tr)
 
 - **Upcoming..**
 
