@@ -1,7 +1,7 @@
 ![Muhammed Furkan Ozata Github Cover Photo](https://github.com/mfurkanozata/mfurkanozata/blob/main/furkan_readme-cover.jpg)
 
 ## Hi 👋 Furkan here,
-I am a Simulink Automations & AI Tools Developer specializing in e-Powertrain Components. Currently working as a Control Systems Engineer Consultant, I focus on model-based software scripting and optimizing energy management and charging systems.
+I am a web app developer/entrepreneur.
 
 Want to know more about me? Check out my [LinkedIn Profile](https://www.linkedin.com/in/mfurkanozata).
 
